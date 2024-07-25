@@ -1,0 +1,11 @@
+id = "effekt"
+name = "Effekt"
+version = "0.0.1"
+schema_version = 1
+authors = ["Leon Fuß <leonfuss@icloud.com>"]
+description = "Provides support for the Effekt programming language in Zed."
+repository = "https://github.com/leonfuss/zed_effekt"
+
+[language_servers.effekt]
+name = "effekt"
+language = "Effekt"
