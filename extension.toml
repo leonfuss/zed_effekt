@@ -9,3 +9,7 @@ repository = "https://github.com/leonfuss/zed_effekt"
 [language_servers.effekt]
 name = "effekt"
 language = "Effekt"
+
+[grammars.effekt]
+repository = "https://github.com/leonfuss/tree-sitter-effekt"
+commit = "acb4f8c85c7906dc9adde5c4503cae7ac43a3854"

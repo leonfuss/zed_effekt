@@ -1,4 +1,5 @@
 name = "Effekt"
+grammar = "effekt"
 path_suffixes = ["effekt"]
 line_comments = ["// "]
 autoclose_before = "=}])"
