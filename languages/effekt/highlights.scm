@@ -12,6 +12,8 @@
   "else"
   "val"
   "var"
+  "try"
+  "with"
 ] @keyword
 
 (comment) @comment
