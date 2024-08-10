@@ -15,6 +15,7 @@
   "try"
   "with"
   "resume"
+  "import"
 ] @keyword
 
 "def" @keyword.function
