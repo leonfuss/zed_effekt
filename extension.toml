@@ -12,4 +12,4 @@ language = "Effekt"
 
 [grammars.effekt]
 repository = "https://github.com/leonfuss/tree-sitter-effekt"
-commit = "331fecee3444eca6009558920ecd466ed84ed752"
+commit = "edc8e8bdbf7b2a5a1e9e2514e2d9018cd2dbac80"
